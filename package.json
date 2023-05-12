@@ -4,7 +4,8 @@
   "description": "Repository for module-2 in workflow lessons. Goal is to learn Unit-testing, End-to-end-testing and Automated-testing",
   "main": "src/scripts/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test-unit",
+    "test-unit": "jest"
   },
   "keywords": [
     "JavaScript",
