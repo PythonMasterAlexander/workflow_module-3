@@ -1,6 +1,6 @@
 {
   "name": "workflow_module-3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Repository for module-2 in workflow lessons. Goal is to learn Unit-testing, End-to-end-testing and Automated-testing",
   "main": "src/scripts/index.js",
   "scripts": {
