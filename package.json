@@ -1,0 +1,20 @@
+{
+  "name": "workflow_module-3",
+  "version": "1.0.0",
+  "description": "Repository for module-2 in workflow lessons. Goal is to learn Unit-testing, End-to-end-testing and Automated-testing",
+  "main": "src/scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "TypeScript",
+    "Jest",
+    "Cypress"
+  ],
+  "author": "Alexander Vestbø Hardeland",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
